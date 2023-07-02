@@ -3,8 +3,8 @@
 2. [Diagrama de clases](#Diagrama-de-clases)
 3. [Diagrama de objetos](#Diagrama-de-objetos)
 4. [Diagrama de estados](#Diagrama-de-estados)
-5. [Diagrama de contexto](#Diagrama-de-contexto)
-6. [Casos de usos](#Casos-de-usos)
+5. [Casos de usos](#Casos-de-usos)
+6. [Diagrama de contexto](#Diagrama-de-contexto)
 7. [Interfaz](#Interfaz)
 
 ## Introduction
@@ -44,8 +44,6 @@ Una vez tienen todos los datos, organizaron el viaje, y al final de este, el pro
 ![Imagen](objetos/DiagramaObjetos.png)
 ## Diagrama de estados
 ![Imagen](estados/DiagramaEstados.png)
-## Diagrama de contexto
-![Imagen](contexto/contexto.png)
 ## Casos de usos
 ### Actores
 | Actor            | Descripción                                                                          |
@@ -113,7 +111,8 @@ Una vez tienen todos los datos, organizaron el viaje, y al final de este, el pro
     Este caso de uso se ejecutará automáticamente cada X tiempo, es una tarea en segundo plano. Si un viaje no se han gestionado los cobros en un tiempo límite, este caso de uso generará una alerta que le llegará a gestión.<br><br>
     <img src="casosdeusos/comprobargestioncobrospendientes/ComprobarGestionCobrosPendientes.png" alt="Detalle caso de uso"></img>
 </details>
-
+## Diagrama de contexto
+![Imagen](contexto/contexto.png)
 ## Interfaz
 ### Gestion
 ![Imagen](interfaz/Gestion-DashBoard.png)
