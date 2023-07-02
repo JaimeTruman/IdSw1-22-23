@@ -9,7 +9,7 @@ rectangle Sistema {
     package Solicitudes {
       usecase "Crear solicitud" as S_P_S
       usecase "Ver solicitudes" as S_V_S
-      usecase "Validar solicitud" as S_V_AC
+      usecase "Gestionar solicitud" as S_V_AC
    }
     package Viajes {
       package Justificantes {
