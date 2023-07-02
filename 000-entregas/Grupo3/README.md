@@ -114,10 +114,6 @@ Una vez tienen todos los datos, organizaron el viaje, y al final de este, el pro
 ### Gestion
 ![Imagen](interfaz/Gestion-DashBoard.png)
 ![Imagen](interfaz/Gestion-Informe.png)
-![Imagen](interfaz/Gestion-RechazarFactura.png)
-![Imagen](interfaz/Gestion-SubirPlanificacion.png)
-![Imagen](interfaz/Gestion-VerSolicitud.png)
-![Imagen](interfaz/Gestion-VerSolicitudes.png)
 ![Imagen](interfaz/Gestion-VerViajes.png)
 ![Imagen](interfaz/Gestion-CreaViaje.png)
 ![Imagen](interfaz/Gestion-EnviaPlanificacionViaje.png)
