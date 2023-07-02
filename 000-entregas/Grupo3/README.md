@@ -50,7 +50,7 @@ Una vez tienen todos los datos, organizaron el viaje, y al final de este, el pro
 | **Trabajadores** | Solicitan viajar y viajan. 					                                                     |
 | **Tiempo**       | Crea alerta a gestión si el viaje una vez finalizado no se ha gestionado los cobros. |
 ### Casos de usos
-![Imagen](casosdeusos/CasosDeUso.png)
+![Imagen](casosdeusos/CasoUso.png)
 
 ### Detalle casos de usos
 
