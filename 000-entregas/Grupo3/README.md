@@ -55,9 +55,9 @@ Una vez tienen todos los datos, organizaron el viaje, y al final de este, el pro
 ### Detalle casos de usos
 
 <details>
-    <summary style="cursor: pointer">Solicitar viaje</summary>
+    <summary style="cursor: pointer">Crear solcitud</summary>
     El trabajador puede solicitar el viaje que desee. Esta petición vendrá con datos básicos, como fechas, lugar, carta de invitación si la hay.<br><br>
-    <img src="casosdeusos/solicitarviaje/SolicitarViaje.png" alt="Detalle caso de uso"></img>
+        <img src="casosdeusos/CrearSolicitud/CrearSolicitud.png" alt="Detalle caso de uso"></img>
 </details>
 <details>
     <summary style="cursor: pointer">Ver sus solicitudes</summary>
