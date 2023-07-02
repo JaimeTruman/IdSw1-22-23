@@ -60,7 +60,7 @@ Una vez tienen todos los datos, organizaron el viaje, y al final de este, el pro
         <img src="casosdeusos/CrearSolicitud/CrearSolicitud.png" alt="Detalle caso de uso"></img>
 </details>
 <details>
-    <summary style="cursor: pointer">Versolicitudes</summary>
+    <summary style="cursor: pointer">Ver solicitudes</summary>
     El trabajador puede ver todas sus solicitudes pendientes.<br><br>
     <img src="casosdeusos/VerSolicitudes/VerSolicitudes.png" alt="Detalle caso de uso"></img>
 </details>
