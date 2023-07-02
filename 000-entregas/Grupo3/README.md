@@ -3,7 +3,9 @@
 2. [Diagrama de clases](#Diagrama-de-clases)
 3. [Diagrama de objetos](#Diagrama-de-objetos)
 4. [Diagrama de estados](#Diagrama-de-estados)
-5. [Casos de usos](#Casos-de-usos)
+5. [Diagrama de contexto](#Diagrama-de-contexto)
+6. [Casos de usos](#Casos-de-usos)
+7. [Interfaz](#Interfaz)
 
 ## Introduction
 El cliente requiere una solución informática que pueda facilitar la gestión de las solicitudes de viaje y los viajes por parte de los profesores al ser invitado o ser partícipe de algún evento. Por lo tanto expresa que necesita de qué administración tenga esta solución para poder buscar vuelos, hoteles y recogida de tickets (si es que proporcionan dinero para dicho viaje). La solución necesita tener:
@@ -42,6 +44,8 @@ Una vez tienen todos los datos, organizaron el viaje, y al final de este, el pro
 ![Imagen](objetos/DiagramaObjetos.png)
 ## Diagrama de estados
 ![Imagen](estados/DiagramaEstados.png)
+## Diagrama de contexto
+![Imagen](contexto/contexto.png)
 ## Casos de usos
 ### Actores
 | Actor            | Descripción                                                                          |
