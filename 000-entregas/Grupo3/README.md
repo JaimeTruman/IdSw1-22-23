@@ -117,6 +117,7 @@ Una vez tienen todos los datos, organizaron el viaje, y al final de este, el pro
 ![Imagen](interfaz/Gestion-VerViajes.png)
 ![Imagen](interfaz/Gestion-CreaViaje.png)
 ![Imagen](interfaz/Gestion-EnviaPlanificacionViaje.png)
+![Imagen](interfaz/Gestion-VeSolicitud.png)
 
 ### Trabajadores
 ![Imagen](interfaz/Trabajador-EnviarJustificante.png)
