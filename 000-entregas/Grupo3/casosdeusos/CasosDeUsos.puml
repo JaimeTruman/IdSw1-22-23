@@ -7,9 +7,8 @@ actor "Tiempo" as T
 
 rectangle Sistema {
     package Solicitudes {
-      usecase "Solicitar viaje" as S_P_S
-      usecase "Ver sus solicitudes" as S_P_VS
-      usecase "Ver solicitudes pendientes" as S_V_VS
+      usecase "Crear solicitud" as S_P_S
+      usecase "Ver solicitudes" as S_V_S
       usecase "Validar solicitud" as S_V_AC
    }
     package Viajes {
@@ -18,29 +17,33 @@ rectangle Sistema {
            usecase "Enviar justificante" as VJ_P_EJ
            usecase "Validar justificante" as VJ_G_VJ
       }
-      usecase "Planificar viaje" as V_G_PV
-      usecase "Ver planificacion viaje" as V_P_VP
+      usecase "Crear viaje" as V_G_CV
       usecase "Ver viajes" as V_G_VV
+    }
+    package Estadisticos {
       usecase "Crear informes" as V_G_CI
-      usecase "Calcular cobros necesarios" as V_T_CCN
-      usecase "Comprobar gestion de cobros pendientes" as V_T_CGC
+      usecase "Calcular estadisticas" as V_T_CCN
+      usecase "Generar notificaciones" as V_T_CGC
     }
 }
 
-G --> S_V_VS
-G --> S_V_AC
 
-P --> S_P_VS
+G --> S_V_AC
+G --> S_V_S
+
+P --> S_V_S
 P --> S_P_S
 P --> VJ_GP_VJ
-P --> V_P_VP
-P --> VJ_P_EJ
+P --> VJ_P_EJ 
+P --> V_G_VV
 
 T --> V_T_CCN
 T --> V_T_CGC
 
+
+
 V_G_VV <-- G
-V_G_PV <-- G
+V_G_CV <-- G
 VJ_G_VJ <-- G
 V_G_CI <-- G
 VJ_GP_VJ <-- G
