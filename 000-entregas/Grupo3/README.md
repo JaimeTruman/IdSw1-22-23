@@ -65,9 +65,9 @@ Una vez tienen todos los datos, organizaron el viaje, y al final de este, el pro
     <img src="casosdeusos/VerSolicitudes/VerSolicitudes.png" alt="Detalle caso de uso"></img>
 </details>
 <details>
-    <summary style="cursor: pointer">Validar solicitud</summary>
+    <summary style="cursor: pointer">Gestionar solicitud</summary>
     La gestión podrá aceptar o denegar las solicitudes pendientes de los viajes de los trabajadores.<br><br>
-    <img src="casosdeusos/validarsolicitud/ValidarSolicitud.png" alt="Detalle caso de uso"></img>
+    <img src="casosdeusos/GestionarSolicitud/GestionarSolicitud.png" alt="Detalle caso de uso"></img>
 </details>
 <details>
     <summary style="cursor: pointer">Ver justificantes</summary>
