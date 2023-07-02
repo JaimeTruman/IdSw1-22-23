@@ -60,14 +60,9 @@ Una vez tienen todos los datos, organizaron el viaje, y al final de este, el pro
         <img src="casosdeusos/CrearSolicitud/CrearSolicitud.png" alt="Detalle caso de uso"></img>
 </details>
 <details>
-    <summary style="cursor: pointer">Ver sus solicitudes</summary>
+    <summary style="cursor: pointer">Versolicitudes</summary>
     El trabajador puede ver todas sus solicitudes pendientes.<br><br>
-    <img src="casosdeusos/versussolicitudes/VerSusSolicitudes.png" alt="Detalle caso de uso"></img>
-</details>
-<details>
-    <summary style="cursor: pointer">Ver solicitudes pendientes</summary>
-    La gestión podrá ver todas las solicitudes que aun no se han validado.<br><br>
-    <img src="casosdeusos/versolicitudespendientes/VerSolicitudesPendientes.png" alt="Detalle caso de uso"></img>
+    <img src="casosdeusos/VerSolicitudes/VerSolicitudes.png" alt="Detalle caso de uso"></img>
 </details>
 <details>
     <summary style="cursor: pointer">Validar solicitud</summary>
@@ -90,14 +85,9 @@ Una vez tienen todos los datos, organizaron el viaje, y al final de este, el pro
     <img src="casosdeusos/validarjustificante/ValidarJustificante.png" alt="Detalle caso de uso"></img>
 </details>
 <details>
-    <summary style="cursor: pointer">Planificar viaje</summary>
+    <summary style="cursor: pointer">Crear viaje</summary>
     Una vez la solicitud haya sido aceptada, la gestión establecerá el transporte, alojamiento y las dietas al viaje.<br><br>
-    <img src="casosdeusos/planificarviaje/PlanificarViaje.png" alt="Detalle caso de uso"></img>
-</details>
-<details>
-    <summary style="cursor: pointer">Ver planificación viaje</summary>
-    Una vez el viaje haya sido planificado por la gestión, el profesor podrá ver el transporte, alojamiento y dietas.<br><br>
-    <img src="casosdeusos/verplanificacionviaje/VerPlanificacionViaje.png" alt="Detalle caso de uso"></img>
+    <img src="casosdeusos/CrearViaje/CrearViaje.png" alt="Detalle caso de uso"></img>
 </details>
 <details>
     <summary style="cursor: pointer">Ver viajes</summary>
