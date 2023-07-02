@@ -111,8 +111,10 @@ Una vez tienen todos los datos, organizaron el viaje, y al final de este, el pro
     Este caso de uso se ejecutará automáticamente cada X tiempo, es una tarea en segundo plano. Si un viaje no se han gestionado los cobros en un tiempo límite, este caso de uso generará una alerta que le llegará a gestión.<br><br>
     <img src="casosdeusos/comprobargestioncobrospendientes/ComprobarGestionCobrosPendientes.png" alt="Detalle caso de uso"></img>
 </details>
+
 ## Diagrama de contexto
 ![Imagen](contexto/contexto.png)
+
 ## Interfaz
 ### Gestion
 ![Imagen](interfaz/Gestion-DashBoard.png)
