@@ -75,9 +75,9 @@ Una vez tienen todos los datos, organizaron el viaje, y al final de este, el pro
     <img src="casosdeusos/verjustificantes/VerJustificantes.png" alt="Detalle caso de uso"></img>
 </details>
 <details>
-    <summary style="cursor: pointer">Enviar justificante</summary>
+    <summary style="cursor: pointer">Crear justificante</summary>
     El trabajador podrá enviar fotos de los justificantes cuando esté viajando o una vez acabado el viaje.<br><br>
-    <img src="casosdeusos/enviarjustificante/EnviarJustificante.png" alt="Detalle caso de uso"></img>
+    <img src="casosdeusos/CrearJustificante/CrearJustificante.png" alt="Detalle caso de uso"></img>
 </details>
 <details>
     <summary style="cursor: pointer">Validar justificante</summary>
