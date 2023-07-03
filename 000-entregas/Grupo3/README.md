@@ -101,16 +101,6 @@ Una vez tienen todos los datos, organizaron el viaje, y al final de este, el pro
     La gestión podrá crear un informe del viaje.<br><br>
     <img src="casosdeusos/crearinforme/CrearInforme.png" alt="Detalle caso de uso"></img>
 </details>
-<details>
-    <summary style="cursor: pointer">Calcular cobros necesarios</summary>
-    Este caso de uso se ejecutará automáticamente cada X tiempo, es una tarea en segundo plano. Calculará todos los gastos de un viaje acabados y lo compara con los fondos para saber si la universidad debe dinero al trabajador o al revés.<br><br>
-    <img src="casosdeusos/calcularcobrosnecesarios/CalcularCobrosNecesarios.png" alt="Detalle caso de uso"></img>
-</details>
-<details>
-    <summary style="cursor: pointer">Comprobar gestión de cobros penddientes</summary>
-    Este caso de uso se ejecutará automáticamente cada X tiempo, es una tarea en segundo plano. Si un viaje no se han gestionado los cobros en un tiempo límite, este caso de uso generará una alerta que le llegará a gestión.<br><br>
-    <img src="casosdeusos/comprobargestioncobrospendientes/ComprobarGestionCobrosPendientes.png" alt="Detalle caso de uso"></img>
-</details>
 
 ## Diagrama de contexto
 ![Imagen](contexto/contexto.png)
